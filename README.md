@@ -3,7 +3,8 @@
 </div>
 <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
+  I'm Sandeep Prabhakula
 </h1>
 
 I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -39,7 +40,11 @@ I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-prabhakula&theme=algolia&hide_border=false" alt="Top Langs">
   <br><br>
 </p>
-
+<p align="center">
+  <a href="https://www.hackerrank.com/sandeep0907"><img src="https://img.shields.io/static/v1?label=HackerRank&message=sandeep0907&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>
+  <a href="https://leetcode.com/sandeep0907/"><img src="https://img.shields.io/static/v1?label=LeetCode&message=sandeep0907&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
+  <a href="https://codechef.com/users/sandeepo9o7"><img src="https://img.shields.io/static/v1?label=CodeChef&message=sandeepo9o7&style=flat-square&logo=CodeChef&color=blue" alt="CodeChef logo" /></a>
+</p>
 <div id="badges" align="center">
 <h3>Connect me on : </h3>
   <a href="https://www.linkedin.com/in/sandeep-prabhakula-791769202/">
