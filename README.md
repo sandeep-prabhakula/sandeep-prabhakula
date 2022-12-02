@@ -30,6 +30,16 @@ I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>  
 
+<h2>📊 GitHub Stats</h2>
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeep-prabhakula&show_icons=true&count_private=true&theme=algolia" alt="Shubh's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-prabhakula&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-prabhakula&theme=algolia&hide_border=false" alt="Top Langs">
+  <br><br>
+</p>
+
 <div id="badges" align="center">
 <h3>Connect me on : </h3>
   <a href="https://www.linkedin.com/in/sandeep-prabhakula-791769202/">
