@@ -1,12 +1,9 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<h1>
-  Hey there
+<h1 align='center'>
+  Hey 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
-  I'm Sandeep Prabhakula
+  Sandeep Prabhakula
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-prabhakula&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-prabhakula" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeep-prabhakula&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-prabhakula" /> </p>
 
 Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
@@ -16,10 +13,16 @@ Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and apply the update and patches in my projects.
 
-- I also publish blogs about different technologies on a website called <a href='https://codeverse-chronicles.vercel.app'>Codeverse Chronicles</a>
+- 👨‍💻 All of my projects are available at <a href='https://sandeep-prabhakula.netlify.app'>Portfolio</a>.
+
+- 💬 Ask me about Java, reactjs, Kotlin, Android App Development, Spring Boot.
+
+- :spiral_notepad: I also publish blogs about different technologies on a website called <a href='https://codeverse-chronicles.vercel.app'>Codeverse Chronicles</a>
+
+- 📄 Know My Expire experiences <a href='https://drive.google.com/file/d/1YGp3Bn9_KFI6LEe08nj-9287Yl89VuMq/view?usp=sharing'>Resume</a>
 
 <div align="center">
-<h3>Tools and Languages :</h3>
+<h2 align='center'>🧰Tools and Languages </h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
@@ -35,34 +38,36 @@ Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title='Postman' width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title='Postman' width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>&nbsp;
 </div>  
 
-<h2>📊 GitHub Stats</h2>
+<h2 align='center'>📊 GitHub Stats</h2>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeep-prabhakula&show_icons=true&count_private=true&theme=algolia" alt="sandeep's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-prabhakula&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-prabhakula&theme=algolia&hide_border=false" alt="Top Langs">
-  <br><br>
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-prabhakula&theme=algolia&hide_border=false" height='180cm' alt="Top Langs">&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-prabhakula&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">&nbsp;
+  <br/>
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeep-prabhakula&show_icons=true&count_private=true&theme=algolia" alt="sandeep's GitHub stats" />&nbsp;
+  <br/>
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-prabhakula" height='180cm' alt="sandeep-prabhakula" /></a> 
 </p>
+
+<h2 align='center'>Programming and Coding Profiles</h2>
 <p align="center">
-  <a href="https://www.hackerrank.com/sandeep0907"><img src="https://img.shields.io/static/v1?label=HackerRank&message=sandeep0907&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>
-  <a href="https://leetcode.com/sandeep0907/"><img src="https://img.shields.io/static/v1?label=LeetCode&message=sandeep0907&style=flat-square&logo=LeetCode&color=blue" alt="LeetCode logo" /></a>
-  <a href="https://codechef.com/users/sandeepo9o7"><img src="https://img.shields.io/static/v1?label=CodeChef&message=sandeepo9o7&style=flat-square&logo=CodeChef&color=blue" alt="CodeChef logo" /></a>
+<a href="https://stackoverflow.com/users/14508072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14508072" height="30" width="40" /></a>&nbsp;
+<a href="https://www.codechef.com/users/sandeepo9o7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sandeepo9o7" height="30" width="40" /></a>&nbsp;
+<a href="https://www.hackerrank.com/sandeep0907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandeep0907" height="30" width="40" /></a>&nbsp;
+<a href="https://codeforces.com/profile/sandeep0907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sandeep0907" height="30" width="40" /></a>&nbsp;
+<a href="https://www.leetcode.com/sandeep0907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep0907" height="30" width="40" /></a>&nbsp;
 </p>
-<div id="badges" align="center">
-<h3>Connect me on : </h3>
-  <a href="https://www.linkedin.com/in/sandeep-prabhakula-791769202/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/sandyo9o7">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://twitter.com/SandeepSandy_o9">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
-For more details visit [Sandeep Prabhakula](https://sandeep-prabhakula.netlify.app/)
+<div id="badges" align="center">
+<h2 align='center'>📫Connect me on  </h3>
+  <a href="https://twitter.com/sandeepsandy_o9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepsandy_o9" height="30" width="40" /></a>&nbsp;
+  <a href="https://linkedin.com/in/sandeep-prabhakula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-prabhakula" height="30" width="40" /></a>&nbsp;
+  <a href="https://fb.com/sandeep.prabhakula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandeep.prabhakula" height="30" width="40" /></a>&nbsp;
+  <a href="https://instagram.com/sandyo9o7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandyo9o7" height="30" width="40" /></a>&nbsp;
+</div>
