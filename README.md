@@ -19,7 +19,7 @@ Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :spiral_notepad: I also publish blogs about different technologies on a website called <a href='https://codeverse-chronicles.vercel.app'>Codeverse Chronicles</a>
 
-- 📄 Know My Expire experiences <a href='https://drive.google.com/file/d/1YGp3Bn9_KFI6LEe08nj-9287Yl89VuMq/view?usp=sharing'>Resume</a>
+- 📄 Know My experiences <a href='https://drive.google.com/file/d/1YGp3Bn9_KFI6LEe08nj-9287Yl89VuMq/view?usp=sharing'>Resume</a>
 
 <div align="center">
 <h2 align='center'>🧰Tools and Languages </h3>
