@@ -52,7 +52,7 @@ Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeep-prabhakula&show_icons=true&count_private=true&theme=algolia" alt="sandeep's GitHub stats" />&nbsp;
   <br/>
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-prabhakula" height='180cm' alt="sandeep-prabhakula" /></a> 
+   <img src="https://holopin.me/sandyo9o7o1" alt="An image of @sandyo9o7o1's Holopin badges"/>
 </p>
 
 <h2 align='center'>Programming and Coding Profiles</h2>
