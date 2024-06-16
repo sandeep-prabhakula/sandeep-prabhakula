@@ -5,11 +5,11 @@
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeep-prabhakula&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-prabhakula" /> </p>
 
-Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Java Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I’m an under graduate Student in Electronics and Communication Engineering.
 
-- :seedling: Aspiring Software Engineer.
+- :seedling: Software Developer.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and apply the update and patches in my projects.
 
@@ -42,6 +42,11 @@ Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title='Postman' width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>&nbsp;
 </div>  
 
 <h2 align='center'>📊 GitHub Stats</h2>
