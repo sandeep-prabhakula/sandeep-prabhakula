@@ -7,9 +7,7 @@
 
 Java Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m an under graduate Student in Electronics and Communication Engineering.
-
-- :seedling: Software Developer.
+- :telescope: I’m a Software Developer at Tata Consultancy Services.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and apply the update and patches in my projects.
 
