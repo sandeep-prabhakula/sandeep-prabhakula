@@ -51,10 +51,10 @@ Java Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <p align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-prabhakula&theme=algolia&hide_border=false" height='180cm' alt="Top Langs">&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-prabhakula&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">&nbsp;
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-prabhakula&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">&nbsp; -->
   <br/>
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeep-prabhakula&show_icons=true&count_private=true&theme=algolia" alt="sandeep's GitHub stats" />&nbsp;
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeep-prabhakula&show_icons=true&count_private=true&theme=algolia" alt="sandeep's GitHub stats" />&nbsp; -->
   <br/>
   <br/>
    <img src="https://holopin.me/sandyo9o7o1" alt="An image of @sandyo9o7o1's Holopin badges"/>
@@ -62,7 +62,7 @@ Java Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <h2 align='center'>Programming and Coding Profiles</h2>
 <p align="center">
-<a href="https://stackoverflow.com/users/14508072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14508072" height="30" width="40" /></a>&nbsp;
+
 <a href="https://www.codechef.com/users/sandeepo9o7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sandeepo9o7" height="30" width="40" /></a>&nbsp;
 <a href="https://www.hackerrank.com/sandeep0907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandeep0907" height="30" width="40" /></a>&nbsp;
 <a href="https://codeforces.com/profile/sandeep0907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sandeep0907" height="30" width="40" /></a>&nbsp;
@@ -71,8 +71,7 @@ Java Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <div id="badges" align="center">
 <h2 align='center'>📫Connect me on  </h3>
-  <a href="https://twitter.com/sandeepsandy_o9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepsandy_o9" height="30" width="40" /></a>&nbsp;
+ 
   <a href="https://linkedin.com/in/sandeep-prabhakula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-prabhakula" height="30" width="40" /></a>&nbsp;
-  <a href="https://fb.com/sandeep.prabhakula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandeep.prabhakula" height="30" width="40" /></a>&nbsp;
-  <a href="https://instagram.com/sandyo9o7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandyo9o7" height="30" width="40" /></a>&nbsp;
+ 
 </div>
